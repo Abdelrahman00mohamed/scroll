@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  min-height: 4000px;
+  margin: 0;
+}
+.cc{
+position: fixed;
+left: 0;
+top: 0;
+width:0px;
+height: 5px;
+  background-color: #0075ff;
+}
